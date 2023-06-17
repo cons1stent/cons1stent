@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cons1stent
-- 👀 I’m interested in the Data Science, namely the SQL and Python
-- 🌱 I’m currently learning Python and SQL
+- Hello, I’m @cons1stent
+- I’m interested in the Data Science, namely the SQL and Python
+- I’m currently learning R, Python and SQL
 - I'm also doing a degree related to Applied Mathematics and Statistics
 
 <!---
