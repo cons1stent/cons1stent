@@ -1,5 +1,5 @@
 - Hello, I’m @cons1stent
-- I’m interested in the Data Science, namely the SQL and Python
+- I’m interested in the Data Science, namely the R, SQL and Python
 - I’m currently learning R, Python and SQL
 - I'm also doing a degree related to Applied Mathematics and Statistics
 
