@@ -1,7 +1,7 @@
 - Hello, I’m @cons1stent
-- I’m interested in the Data Science, namely the R, SQL and Python
-- I’m currently learning R, Python and SQL
-- I'm also doing a degree related to Applied Mathematics and Statistics
+- I’m interested in the Data Science, namely the R, SQL and Python roles around the world
+- I’m currently learning Python, SQL, Java, MongoDB
+- I'm a Graduate of the University of Nottingham
 
 <!---
 cons1stent/cons1stent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
